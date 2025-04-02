@@ -1,0 +1,6 @@
+E:/work/CachePool/cmake-build-debug/CMakeFiles/unit_test.dir
+E:/work/CachePool/cmake-build-debug/CMakeFiles/perf_test.dir
+E:/work/CachePool/cmake-build-debug/CMakeFiles/test.dir
+E:/work/CachePool/cmake-build-debug/CMakeFiles/perf.dir
+E:/work/CachePool/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/work/CachePool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
